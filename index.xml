@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Caladria on Ca l&amp;apos;Adrià</title>
-    <link>http://caladria.net/</link>
+    <link>http://adriacalderer.github.io/</link>
     <description>Recent content in Caladria on Ca l&amp;apos;Adrià</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ca_ES</language>
-    <lastBuildDate>Tue, 02 Aug 2022 22:08:10 +0200</lastBuildDate><atom:link href="http://caladria.net/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 Aug 2022 22:08:10 +0200</lastBuildDate><atom:link href="http://adriacalderer.github.io/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
